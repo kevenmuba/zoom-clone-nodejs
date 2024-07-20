@@ -1,4 +1,5 @@
-const socket = io('http://localhost:3000');
+const socket = io('https://zoom-clone-nodejs.onrender.com/');
+//const socket = io('http://localhost:3000');
 
 //const socket = io('/');// step 3
 // step 4
